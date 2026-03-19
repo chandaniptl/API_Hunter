@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": "1573",
+      "image": "https://www.qeqyxahobiha.co",
+      "bookName": "Louis Horn",
+      "author": "Aut id cum quae anim",
+      "count": 5,
+      "category": "Music",
+      "borrowedBy": [
+        1766642286579
+      ],
+      "borrowed": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1766642286579,
+      "username": "tai",
+      "email": "tai1@gmail.com",
+      "password": "1002"
+    }
+  ]
+}
